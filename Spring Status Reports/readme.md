@@ -11,10 +11,10 @@ Status Report Fall Week XX.md is a template for to copy-paste into new Status re
 
 | Document | Tasks | Accomplishments| Issues |
 |---|---|---|---|
-| Week 1 Status Report | | | |
-| Week 2 Status Report | | | |
-| Week 3 Status Report | | | |
-| Week 4 Status Report | | | |
+| Week 1 Status Report | Decide semester schedule, update team contract | Finished team contract | No issues this week |
+| Week 2 Status Report | Sync github to get everything working | Added finishing touches to tictactoe, started on manacala | No issues this week|
+| Week 3 Status Report | Add remaining features to connect 4, add more Blocky features | Add Blockly save to json, add best of 3 to connect 4 | No issues this week |
+| Week 4 Status Report | Work on adding more types of Blockly blocks, add features to connect 4 | Expanded Blockly, added better AI to connect 4 CPU | No issues this week |
 | Week 5 Status Report | | | |
 | Week 6 Status Report | | | |
 | Week 7 Status Report | | | |
